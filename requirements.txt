@@ -1,6 +1,6 @@
 gym==0.14.0
 numpy
-scipy==1.1.0
+scipy
 lxml==4.4.1
 pyprind==2.11.2
 nose2==0.8.0
